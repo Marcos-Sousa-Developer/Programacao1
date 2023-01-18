@@ -11,5 +11,13 @@ O objetivo deste projeto é criar um corretor ortográfico baseado num vocabulá
 
 ## Instruções 
 
-<br> 
+```bash
+
+thecodebuzz@DESKTOP-NUEMRRD:~$ sudo service redis-server restart
+Stopping redis-server: redis-server.
+Starting redis-server: redis-server.
+
+```****
+
+
 
