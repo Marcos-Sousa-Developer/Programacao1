@@ -33,7 +33,7 @@ As operações de edição podem ser as seguintes:
 * Substituir uma letra por outra letra
 
 Por exemplo, a distância entre 'para' e 'prol' é 3 porque precisamos de três operações para transformar uma na outra, isto é, para -> pra -> pro -> prol. <br>
-Devem representar a informação numa matriz onde cada linha corresponde às letras da 1ª palavra, e as colunas as letras da 2ª palavra. No exemplo dado, a matriz seria inicializada assim: <br>
+A informação é representada numa matriz onde cada linha corresponde às letras da 1ª palavra, e as colunas as letras da 2ª palavra. No exemplo dado, a matriz seria inicializada assim: <br>
 
 <pre id="yui_3_17_2_1_1674044857943_118"><span style="font-size: medium;" id="yui_3_17_2_1_1674044857943_120"><code class="hljs" id="yui_3_17_2_1_1674044857943_119">        
      p  r  o  l
@@ -56,7 +56,12 @@ Para este exemplo a matriz, depois de preenchida, irá ter os seguintes valores:
  a [ 2  1  1  2  3]
  r [ 3  2  1  2  3]
  a [ 4  3  2  2  3]]
- </code></span><br><br></pre> 
+ </code></span><br><br></pre>  
+
+```bash
+python3 -c 'from main import *; print(edicoes("YOUR TEXT HERE", "YOUR TEXT HERE"))'
+```
+ 
  
  
 
