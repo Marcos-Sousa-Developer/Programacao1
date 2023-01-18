@@ -3,7 +3,7 @@
 </p>
 
 # <h1 align="center">Corretor Ortográfico</h3>
-<h4 align="center">Projeto para a cadeira de Programação 1 (2020/2021)</h5>
+<h4 align="center">Projeto para a cadeira de Programação 1 (Parte1) (2020/2021)</h5>
 
 <hr>
 
