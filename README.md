@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/zev4l/chessbook">
-    <img src="[https://checkra.in/img/icon.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.palpitedigital.com%2Fcorretor-de-texto-para-firefox%2F&psig=AOvVaw1MaooaUcb68NPoHrhx43IK&ust=1674132061294000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPCE6YqS0fwCFQAAAAAdAAAAABAI)" alt="Logo" width="80" height="80">
+    <img src="[[https://checkra.in/img/icon.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.palpitedigital.com%2Fcorretor-de-texto-para-firefox%2F&psig=AOvVaw1MaooaUcb68NPoHrhx43IK&ust=1674132061294000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPCE6YqS0fwCFQAAAAAdAAAAABAI)](https://www.palpitedigital.com/y/322/corretor-e1444142590776.jpg)" alt="Logo" width="80" height="80">
   </a>
 
 <h1 align="center">Corretor Ortográfico</h3>
