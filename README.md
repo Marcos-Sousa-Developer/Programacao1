@@ -61,25 +61,16 @@ Para este exemplo a matriz, depois de preenchida, irá ter os seguintes valores:
 ```bash
 python3 -c 'from main import *; print(edicoes("YOUR TEXT HERE", "YOUR TEXT HERE"))'
 ``` 
-### Função sugerir 
+## Função sugerir 
 Recebe um vocabulário, uma palavra, uma função de distância e um inteiro positivo n de sugestões e devolve uma lista de n palavras do vocabulário mais próximas da palavra dada, de acordo com a função de distância 
 
 ```bash
 python3 -c 'from main import *; print(sugerir("YOUR VOCABULARY LIST, "YOUR TEXT HERE", "YOUR DISTANCE FUNCTION", maxSugestoes=5))'
 ``` 
 
-### Função corretor 
+## Função corretor 
 Recebe um vocabulário, um texto, uma função de distância e um inteiro positivo n de sugestões e imprime um relatório com as correções sugeridas 
 
 ```bash
 python3 -c 'from main import *; print(corretor("YOUR VOCABULARY LIST, "YOUR TEXT HERE", "YOUR DISTANCE FUNCTION", maxSugestoes=5))'
 ``` 
-
-
-
-
- 
- 
- 
-
-
