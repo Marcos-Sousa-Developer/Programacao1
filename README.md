@@ -14,7 +14,7 @@ O objetivo deste projeto é criar um corretor ortográfico baseado num vocabulá
 ## Função gerarPalavras 
 Recebe uma string com texto, e devolve uma lista com as várias palavras contidas na string, pela ordem que aparecem. 
 
-#### **Run it on terminal or Open the code and Test ** 
+#### **Run it on terminal or Open the code and Test** 
 ```bash
 python3 -c 'from main import *; print(gerarPalavras("YOUR TEXT HERE"))'
 ```
