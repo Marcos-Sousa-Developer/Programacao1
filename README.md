@@ -65,7 +65,7 @@ python3 -c 'from main import *; print(edicoes("YOUR TEXT HERE", "YOUR TEXT HERE"
 Recebe um vocabulário, uma palavra, uma função de distância e um inteiro positivo n de sugestões e devolve uma lista de n palavras do vocabulário mais próximas da palavra dada, de acordo com a função de distância 
 
 ```bash
-python3 -c 'from main import *; print(sugerir(dic, "YOUR TEXT HERE", "YOUR TEXT DISTANCE", maxSugestoes=5))'
+python3 -c 'from main import *; print(sugerir("YOUR VOCABULARY LIST, "YOUR TEXT HERE", "YOUR TEXT DISTANCE", maxSugestoes=5))'
 ``` 
 
 
