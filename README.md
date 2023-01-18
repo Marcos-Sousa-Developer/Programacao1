@@ -42,7 +42,22 @@ Devem representar a informação numa matriz onde cada linha corresponde às let
  a [ 2  0  0  0  0]
  r [ 3  0  0  0  0]
  a [ 4  0  0  0  0]]
- <br><br></code></span></pre> 
+ <br><br></code></span></pre>  
+ 
+<p id="yui_3_17_2_1_1674044857943_121">Cada posição [i][j] da matriz irá representar a distância entre as <em>strings</em> <code>palavra1[:i]</code> e <code>palavra2[:j]</code>. A solução final depois de preencher a matriz, estará na célula do canto inferior direito.</p> 
+
+É possível preencher a matriz a começar nas linhas acima, da esquerda para a direita.
+Para este exemplo a matriz, depois de preenchida, irá ter os seguintes valores:
+
+<pre><span style="font-size: medium;"><code class="hljs">       
+     p  r  o  l
+  [[ 0  1  2  3  4]
+ p [ 1  0  1  2  3]
+ a [ 2  1  1  2  3]
+ r [ 3  2  1  2  3]
+ a [ 4  3  2  2  3]]
+ </code></span><br><br></pre> 
+ 
  
 
 
