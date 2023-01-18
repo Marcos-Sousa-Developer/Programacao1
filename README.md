@@ -65,14 +65,14 @@ python3 -c 'from main import *; print(edicoes("YOUR TEXT HERE", "YOUR TEXT HERE"
 Recebe um vocabulário, uma palavra, uma função de distância e um inteiro positivo n de sugestões e devolve uma lista de n palavras do vocabulário mais próximas da palavra dada, de acordo com a função de distância 
 
 ```bash
-python3 -c 'from main import *; print(sugerir("YOUR VOCABULARY LIST, "YOUR TEXT HERE", "YOUR TEXT DISTANCE", maxSugestoes=5))'
+python3 -c 'from main import *; print(sugerir("YOUR VOCABULARY LIST, "YOUR TEXT HERE", "YOUR DISTANCE FUNCTION", maxSugestoes=5))'
 ``` 
 
 ### Função corretor 
 Recebe um vocabulário, um texto, uma função de distância e um inteiro positivo n de sugestões e imprime um relatório com as correções sugeridas 
 
 ```bash
-python3 -c 'from main import *; print(corretor("YOUR VOCABULARY LIST, "YOUR TEXT HERE", "YOUR TEXT DISTANCE", maxSugestoes=5))'
+python3 -c 'from main import *; print(corretor("YOUR VOCABULARY LIST, "YOUR TEXT HERE", "YOUR DISTANCE FUNCTION", maxSugestoes=5))'
 ``` 
 
 
