@@ -14,7 +14,7 @@ O objetivo deste projeto é criar um corretor ortográfico baseado num vocabulá
 ## Função gerarPalavras 
 Recebe uma string com texto, e devolve uma lista com as várias palavras contidas na string, pela ordem que aparecem. 
 
-#### **Run it on terminal or open the code and test** 
+#### **Run it on terminal or open the code (main.py) and test** 
 ```bash
 python3 -c 'from main import *; print(gerarPalavras("YOUR TEXT HERE"))'
 ```
@@ -22,7 +22,7 @@ python3 -c 'from main import *; print(gerarPalavras("YOUR TEXT HERE"))'
 ## Função mmLetras
 Devolve a subtração entre o tamanho da maior palavra dada e o número de letras iguais nas mesmas posições entre as duas palavras
 
-#### **Run it on terminal or open the code and test** 
+#### **Run it on terminal or open the code (main.py) and test** 
 ```bash
 python3 -c 'from main import *; print(mmLetras("YOUR TEXT HERE", "YOUR TEXT HERE"))'
 ```
@@ -60,14 +60,14 @@ Para este exemplo a matriz, depois de preenchida, irá ter os seguintes valores:
  a [ 4  3  2  2  3]]
  </code></span><br><br></pre>  
 
-#### **Run it on terminal or open the code and test** 
+#### **Run it on terminal or open the code (main.py) and test** 
 ```bash
 python3 -c 'from main import *; print(edicoes("YOUR TEXT HERE", "YOUR TEXT HERE"))'
 ``` 
 ## Função sugerir 
 Recebe um vocabulário, uma palavra, uma função de distância e um inteiro positivo n de sugestões e devolve uma lista de n palavras do vocabulário mais próximas da palavra dada, de acordo com a função de distância 
 
-#### **Run it on terminal or open the code and test** 
+#### **Run it on terminal or open the code (main.py) and test** 
 ```bash
 python3 -c 'from main import *; print(sugerir("YOUR VOCABULARY LIST, "YOUR TEXT HERE", "YOUR DISTANCE FUNCTION", maxSugestoes=5))'
 ``` 
@@ -75,7 +75,7 @@ python3 -c 'from main import *; print(sugerir("YOUR VOCABULARY LIST, "YOUR TEXT 
 ## Função corretor 
 Recebe um vocabulário, um texto, uma função de distância e um inteiro positivo n de sugestões e imprime um relatório com as correções sugeridas 
 
-#### **Run it on terminal or open the code and test** 
+#### **Run it on terminal or open the code (main.py) and test** 
 ```bash
 python3 -c 'from main import *; print(corretor("YOUR VOCABULARY LIST, "YOUR TEXT HERE", "YOUR DISTANCE FUNCTION", maxSugestoes=5))'
 ``` 
