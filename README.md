@@ -37,16 +37,16 @@ As operações de edição podem ser as seguintes:
 Por exemplo, a distância entre 'para' e 'prol' é 3 porque precisamos de três operações para transformar uma na outra, isto é, para -> pra -> pro -> prol. <br>
 A informação é representada numa matriz onde cada linha corresponde às letras da 1ª palavra, e as colunas as letras da 2ª palavra. No exemplo dado, a matriz seria inicializada assim: <br>
 
-<pre id="yui_3_17_2_1_1674044857943_118"><span style="font-size: medium;" id="yui_3_17_2_1_1674044857943_120"><code class="hljs" id="yui_3_17_2_1_1674044857943_119">        
+```     
      p  r  o  l
   [[ 0  1  2  3  4]
  p [ 1  0  0  0  0]
  a [ 2  0  0  0  0]
  r [ 3  0  0  0  0]
  a [ 4  0  0  0  0]]
- <br><br></code></span></pre>  
- 
-<p id="yui_3_17_2_1_1674044857943_121">Cada posição [i][j] da matriz irá representar a distância entre as <em>strings</em> <code>palavra1[:i]</code> e <code>palavra2[:j]</code>. A solução final depois de preencher a matriz, estará na célula do canto inferior direito.</p> 
+``` 
+
+Cada ```posição [i][j]``` da matriz irá representar a distância entre as ```palavra1[:i]``` e <code>palavra2[:j]</code>. A solução final depois de preencher a matriz, estará na célula do canto inferior direito.</p> 
 
 É possível preencher a matriz a começar nas linhas acima, da esquerda para a direita.
 Para este exemplo a matriz, depois de preenchida, irá ter os seguintes valores:
