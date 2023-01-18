@@ -13,7 +13,7 @@ O objetivo deste projeto é criar um corretor ortográfico baseado num vocabulá
 
 ```bash
 
-python3
+python3 
 
 ```
 
