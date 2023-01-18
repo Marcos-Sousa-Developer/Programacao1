@@ -11,6 +11,7 @@ O objetivo deste projeto é criar um corretor ortográfico baseado num vocabulá
 
 ## Instruções 
 
+### Função gerarPalavras que recebe uma string com texto, e devolve uma lista com as várias palavras contidas na string, pela ordem que aparecem
 ```bash
 
 python3 
