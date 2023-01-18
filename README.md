@@ -28,9 +28,9 @@ python3 -c 'from main import *; print(mmLetras("YOUR TEXT HERE", "YOUR TEXT HERE
 ### Função edicoes 
 Devolve o número mínimo de operações de edição necessárias para transformar uma palavra na outra 
 As operações de edição podem ser as seguintes:
-*inserir uma letra numa qualquer posição 
-*apagar uma letra
-*substituir uma letra por outra letra
+* inserir uma letra numa qualquer posição 
+* apagar uma letra
+* substituir uma letra por outra letra
 
 
 
