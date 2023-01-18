@@ -16,7 +16,7 @@ Recebe uma string com texto, e devolve uma lista com as várias palavras contida
 
 ```bash
 
-python3 
+python3 -c 'from main import *; print(gerarPalavras("YOUR TEXT HERE"))'
 
 ```
 
