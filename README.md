@@ -46,7 +46,7 @@ A informação é representada numa matriz onde cada linha corresponde às letra
  a [ 4  0  0  0  0]]
 ``` 
 
-Cada ```posição [i][j]``` da matriz irá representar a distância entre as ```palavra1[:i]``` e <code>palavra2[:j]</code>. A solução final depois de preencher a matriz, estará na célula do canto inferior direito.</p> 
+Cada ```posição [i][j]``` da matriz irá representar a distância entre as ```palavra1[:i]``` e ```palavra2[:j]```. A solução final depois de preencher a matriz, estará na célula do canto inferior direito.</p> 
 
 É possível preencher a matriz a começar nas linhas acima, da esquerda para a direita.
 Para este exemplo a matriz, depois de preenchida, irá ter os seguintes valores:
