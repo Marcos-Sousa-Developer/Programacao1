@@ -51,14 +51,14 @@ A informação é representada numa matriz onde cada linha corresponde às letra
 É possível preencher a matriz a começar nas linhas acima, da esquerda para a direita.
 Para este exemplo a matriz, depois de preenchida, irá ter os seguintes valores:
 
-<pre><span style="font-size: medium;"><code class="hljs">       
+```bash    
      p  r  o  l
   [[ 0  1  2  3  4]
  p [ 1  0  1  2  3]
  a [ 2  1  1  2  3]
  r [ 3  2  1  2  3]
  a [ 4  3  2  2  3]]
- </code></span><br><br></pre>  
+```
 
 #### **Run it on terminal or open the code (main.py) and test it** 
 ```bash
