@@ -21,5 +21,8 @@ python3 -c 'from main import *; print(gerarPalavras("YOUR TEXT HERE"))'
 ### Função mmLetras
 Devolve a subtração entre o tamanho da maior palavra dada e o número de letras iguais nas mesmas posições entre as duas palavras
 
+```bash
+python3 -c 'from main import *; print(mmLetras("YOUR TEXT HERE", "YOUR TEXT HERE"))'
+```
 
 
