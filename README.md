@@ -3,7 +3,7 @@
     <img src="https://www.palpitedigital.com/y/322/corretor-e1444142590776.jpg" alt="Logo" width="80" height="80">
   </a>
 
-<h1 align="center">Corretor Ortográfico</h3>
+# <h1 align="center">Corretor Ortográfico</h3>
 <h4 align="center">Projeto para a cadeira de Programação 1 (2020/2021)</h5>
 
 # Objetivo
