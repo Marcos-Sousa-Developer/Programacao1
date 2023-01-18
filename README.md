@@ -6,8 +6,12 @@
 # <h1 align="center">Corretor Ortográfico</h3>
 <h4 align="center">Projeto para a cadeira de Programação 1 (2020/2021)</h5>
 
+<hr>
+
 # Objetivo
 O objetivo deste projeto é criar um corretor ortográfico baseado num vocabulário disponível com um conjunto de palavras, o corretor lê uma string com texto e indicar todas as palavras que não reconhece. Para além disso, deve sugere correções baseadas num algoritmo de semelhança de palavras.
+
+<hr>
 
 # Instruções 
 
